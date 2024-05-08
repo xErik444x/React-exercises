@@ -1,10 +1,6 @@
 # React JS Practical Problems
-This repository contains solutions to practical problems in React JS presented in a video series.
+This repository contains solutions to practical problems in React JS presented in a [video series](https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W).
 
-## Video Series
-Watch the video series [here](https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W).
-
-## Beginner Level (1–15)
 1. **Hello World Component**: Create a simple React component that renders "Hello, World!". [Live Preview click here](https://663b0211d7d2d9b39f9bb359--tranquil-lolly-5747ef.netlify.app/)
 2. **Counter App**: Build a counter application with buttons to increment and decrement the count. [Live Preview click here](https://663b025e8e221eb5c900b6d6--jazzy-entremet-8acf5c.netlify.app/)
 3. **Real-time Input**: Capture user input and display it in real-time.
@@ -20,8 +16,6 @@ Watch the video series [here](https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W).
 13. **File Uploader**: Develop a file uploader component for image uploads.
 14. **Authentication Form**: Implement a basic authentication form with login and registration.
 15. **Weather App**: Build a weather app that fetches and displays weather information based on user's location.
-
-## Intermediate Level (16–30)
 16. **Search Bar**: Create a search bar that filters items based on user input.
 17. **Real-time Chat App**: Build a chat application with real-time messaging using WebSockets.
 18. **Drag and Drop**: Implement drag-and-drop functionality to reorder a list of items.
