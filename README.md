@@ -14,10 +14,10 @@ This repository contains solutions to practical problems in React JS inspired by
 
 5. **Toggle Switch**: Implement a basic toggle switch component. <a href="https://jocular-biscotti-adef7b.netlify.app" target="_blank">Live Preview click here</a>
 
-6. **API Data Fetch**: Develop a component that fetches data from an API and displays it. <a href="https://quotesapitestreact.netlify.app/ " target="_blank">Live Preview click here</a>
+6. **API Data Fetch**: Develop a component that fetches data from an API and displays it. <a href="https://quotesapitestreact.netlify.app/" target="_blank">Live Preview click here</a>
 
+7. **Calculator App**: Build a simple calculator application with basic arithmetic operations. <a href="https://eloquent-concha-608dbb.netlify.app/" target="_blank">Live Preview click here</a>
 
-7. **Calculator App**: Build a simple calculator application with basic arithmetic operations.
 8. **Timer**: Create a timer that counts down from a specified time.
 9. **To-Do List**: Develop a to-do list application with add and remove task features.
 10. **Routing Setup**: Set up basic routing using React Router.
