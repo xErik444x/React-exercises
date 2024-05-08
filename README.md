@@ -1,5 +1,5 @@
 # React JS Practical Problems
-This repository contains solutions to practical problems in React JS presented in a <a href="https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W" target="_blank">video series</a>
+This repository contains solutions to practical problems in React JS inspired by a <a href="https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W" target="_blank">video series</a> for reference only.
 
 
 1. **Hello World Component**: Create a simple React component that renders "Hello, World!". <a href="https://tranquil-lolly-5747ef.netlify.app/" target="_blank">Live Preview click here</a>
