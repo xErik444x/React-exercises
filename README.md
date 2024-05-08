@@ -22,10 +22,9 @@ This repository contains solutions to practical problems in React JS inspired by
 
 9. **To-Do List**: Develop a to-do list application with add and remove task features.
 10. **Routing Setup**: Set up basic routing using React Router.
-11. **File Uploader**: Develop a file uploader component for image uploads.
-12. **Weather App**: Build a weather app that fetches and displays weather information based on user's location.
-13. **Search Bar**: Create a search bar that filters items based on user input.
-14. **Drag and Drop**: Implement drag-and-drop functionality to reorder a list of items.
-15. **Pagination Component**: Build a pagination component for navigating through a large list of items.
-16. **Quiz App**: Build a quiz application with a timer and scoring system.
-17. **Task Management**: Develop a task management application with add, edit, and delete task features.
+11. **Weather App**: Build a weather app that fetches and displays weather information based on user's location.
+12. **Search Bar**: Create a search bar that filters items based on user input.
+13. **Drag and Drop**: Implement drag-and-drop functionality to reorder a list of items.
+14. **Pagination Component**: Build a pagination component for navigating through a large list of items.
+15. **Quiz App**: Build a quiz application with a timer and scoring system.
+16. **Task Management**: Develop a task management application with add, edit, and delete task features.
