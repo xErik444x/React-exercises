@@ -2,12 +2,10 @@
 This repository contains solutions to practical problems in React JS inspired by a <a href="https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W" target="_blank">video series</a> for reference only.
 
 
+## Project Solutions Overview
 1. **Hello World Component**: Create a simple React component that renders "Hello, World!". <a href="https://tranquil-lolly-5747ef.netlify.app/" target="_blank">Live Preview click here</a>
 
 2. **Counter App**: Build a counter application with buttons to increment and decrement the count. <a href="https://jazzy-entremet-8acf5c.netlify.app/" target="_blank">Live Preview click here</a>
-
-
-
 
 3. **Real-time Input**: Capture user input and display it in real-time.
 4. **List Component**: Construct a component to display a list of items.
