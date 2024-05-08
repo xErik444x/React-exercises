@@ -2,7 +2,7 @@
 This repository contains solutions to practical problems in React JS presented in a <a href="https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W" target="_blank">video series</a>
 
 
-1. **Hello World Component**: Create a simple React component that renders "Hello, World!". <a href="https://663b0211d7d2d9b39f9bb359--tranquil-lolly-5747ef.netlify.app/" target="_blank">Live Preview click here</a>
+1. **Hello World Component**: Create a simple React component that renders "Hello, World!". <a href="https://tranquil-lolly-5747ef.netlify.app/" target="_blank">Live Preview click here</a>
 
 2. **Counter App**: Build a counter application with buttons to increment and decrement the count. <a href="https://jazzy-entremet-8acf5c.netlify.app/" target="_blank">Live Preview click here</a>
 
