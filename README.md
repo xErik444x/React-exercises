@@ -10,7 +10,8 @@ This repository contains solutions to practical problems in React JS inspired by
 3. **Real-time Input**: Capture user input and display it in real-time. <a href="https://rad-crisp-72d829.netlify.app" target="_blank">Live Preview click here</a>
 
 
-4. **List Component**: Construct a component to display a list of items.
+4. **List Component**: Construct a component to display a list of items. <a href="https://celadon-meringue-268000.netlify.app" target="_blank">Live Preview click here</a>
+
 5. **Toggle Switch**: Implement a basic toggle switch component.
 6. **API Data Fetch**: Develop a component that fetches data from an API and displays it.
 7. **Calculator App**: Build a simple calculator application with basic arithmetic operations.
