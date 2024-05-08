@@ -7,7 +7,9 @@ This repository contains solutions to practical problems in React JS inspired by
 
 2. **Counter App**: Build a counter application with buttons to increment and decrement the count. <a href="https://jazzy-entremet-8acf5c.netlify.app/" target="_blank">Live Preview click here</a>
 
-3. **Real-time Input**: Capture user input and display it in real-time.
+3. **Real-time Input**: Capture user input and display it in real-time. <a href="https://rad-crisp-72d829.netlify.app" target="_blank">Live Preview click here</a>
+
+
 4. **List Component**: Construct a component to display a list of items.
 5. **Toggle Switch**: Implement a basic toggle switch component.
 6. **API Data Fetch**: Develop a component that fetches data from an API and displays it.

@@ -1,0 +1,11 @@
+input{
+    font-size: 2rem;
+    padding: 0;
+}
+.header{
+    font-size: 3rem;
+    padding: 0;
+    width: 400px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
