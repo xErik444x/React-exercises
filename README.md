@@ -18,7 +18,8 @@ This repository contains solutions to practical problems in React JS inspired by
 
 7. **Calculator App**: Build a simple calculator application with basic arithmetic operations. <a href="https://calculadorareactasd.netlify.app/" target="_blank">Live Preview click here</a>
 
-8. **Timer**: Create a timer that counts down from a specified time.
+8. **Timer**: Create a timer that counts down from a specified time. <a href="https://leafy-cendol-f29f06.netlify.app/" target="_blank">Live Preview click here</a>
+
 9. **To-Do List**: Develop a to-do list application with add and remove task features.
 10. **Routing Setup**: Set up basic routing using React Router.
 11. **File Uploader**: Develop a file uploader component for image uploads.
