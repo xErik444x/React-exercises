@@ -5,8 +5,8 @@ This repository contains solutions to practical problems in React JS presented i
 Watch the video series [here](https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W).
 
 ## Beginner Level (1–15)
-1. **Hello World Component**: Create a simple React component that renders "Hello, World!".
-2. **Counter App**: Build a counter application with buttons to increment and decrement the count.
+1. **Hello World Component**: Create a simple React component that renders "Hello, World!". live Url: [click here](https://663b0211d7d2d9b39f9bb359--tranquil-lolly-5747ef.netlify.app/)
+2. **Counter App**: Build a counter application with buttons to increment and decrement the count. live Url: [click here](https://663b025e8e221eb5c900b6d6--jazzy-entremet-8acf5c.netlify.app/)
 3. **Real-time Input**: Capture user input and display it in real-time.
 4. **List Component**: Construct a component to display a list of items.
 5. **Toggle Switch**: Implement a basic toggle switch component.
