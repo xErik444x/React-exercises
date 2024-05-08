@@ -11,8 +11,7 @@ export default function Counter() {
 				flexDirection: 'column',
 				alignItems: 'center',
 				justifyContent: 'center',
-				height: '80vh',
-				width: '100vw',
+				height: '80vh'
 			}}
 		>
 			<Header count={count} />

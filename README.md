@@ -1,8 +1,12 @@
 # React JS Practical Problems
 This repository contains solutions to practical problems in React JS presented in a [video series](https://youtu.be/hl2b4q-Jbqc?si=he4YTr8HXfFsnH9W).
 
-1. **Hello World Component**: Create a simple React component that renders "Hello, World!". [Live Preview click here](https://663b0211d7d2d9b39f9bb359--tranquil-lolly-5747ef.netlify.app/)
-2. **Counter App**: Build a counter application with buttons to increment and decrement the count. [Live Preview click here](https://663b025e8e221eb5c900b6d6--jazzy-entremet-8acf5c.netlify.app/)
+1. **Hello World Component**: Create a simple React component that renders "Hello, World!". [Live Preview click here](https://663b0211d7d2d9b39f9bb359--tranquil-lolly-5747ef.netlify.app/){:target="_blank"}
+
+2. **Counter App**: Build a counter application with buttons to increment and decrement the count. [Live Preview click here](https://663b025e8e221eb5c900b6d6--jazzy-entremet-8acf5c.netlify.app/){:target="_blank"}
+
+
+
 3. **Real-time Input**: Capture user input and display it in real-time.
 4. **List Component**: Construct a component to display a list of items.
 5. **Toggle Switch**: Implement a basic toggle switch component.
