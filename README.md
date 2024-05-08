@@ -12,7 +12,8 @@ This repository contains solutions to practical problems in React JS inspired by
 
 4. **List Component**: Construct a component to display a list of items. <a href="https://celadon-meringue-268000.netlify.app" target="_blank">Live Preview click here</a>
 
-5. **Toggle Switch**: Implement a basic toggle switch component.
+5. **Toggle Switch**: Implement a basic toggle switch component. <a href="https://jocular-biscotti-adef7b.netlify.app" target="_blank">Live Preview click here</a>
+
 6. **API Data Fetch**: Develop a component that fetches data from an API and displays it.
 7. **Calculator App**: Build a simple calculator application with basic arithmetic operations.
 8. **Timer**: Create a timer that counts down from a specified time.
