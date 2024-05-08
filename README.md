@@ -16,7 +16,7 @@ This repository contains solutions to practical problems in React JS inspired by
 
 6. **API Data Fetch**: Develop a component that fetches data from an API and displays it. <a href="https://quotesapitestreact.netlify.app/" target="_blank">Live Preview click here</a>
 
-7. **Calculator App**: Build a simple calculator application with basic arithmetic operations. <a href="https://eloquent-concha-608dbb.netlify.app/" target="_blank">Live Preview click here</a>
+7. **Calculator App**: Build a simple calculator application with basic arithmetic operations. <a href="https://calculadorareactasd.netlify.app/" target="_blank">Live Preview click here</a>
 
 8. **Timer**: Create a timer that counts down from a specified time.
 9. **To-Do List**: Develop a to-do list application with add and remove task features.
