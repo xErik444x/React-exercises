@@ -20,7 +20,8 @@ This repository contains solutions to practical problems in React JS inspired by
 
 8. **Timer**: Create a timer that counts down from a specified time. <a href="https://leafy-cendol-f29f06.netlify.app/" target="_blank">Live Preview click here</a>
 
-9. **To-Do List**: Develop a to-do list application with add and remove task features.
+9. **To-Do List**: Develop a to-do list application with add and remove task features. <a href="https://serene-cuchufli-e03091.netlify.app/" target="_blank">Live Preview click here</a>
+
 10. **Routing Setup**: Set up basic routing using React Router.
 11. **Weather App**: Build a weather app that fetches and displays weather information based on user's location.
 12. **Search Bar**: Create a search bar that filters items based on user input.
