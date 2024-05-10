@@ -22,7 +22,8 @@ This repository contains solutions to practical problems in React JS inspired by
 
 9. **To-Do List**: Develop a to-do list application with add and remove task features. <a href="https://serene-cuchufli-e03091.netlify.app/" target="_blank">Live Preview click here</a>
 
-10. **Routing Setup**: Set up basic routing using React Router.
+10. **Routing Setup**: Set up basic routing using React Router. <a href="https://candid-salmiakki-54432d.netlify.app" target="_blank">Live Preview click here</a>
+
 11. **Weather App**: Build a weather app that fetches and displays weather information based on user's location.
 12. **Search Bar**: Create a search bar that filters items based on user input.
 13. **Drag and Drop**: Implement drag-and-drop functionality to reorder a list of items.
