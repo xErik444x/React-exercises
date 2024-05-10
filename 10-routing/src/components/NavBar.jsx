@@ -1,10 +1,11 @@
+import {Link } from 'react-router-dom'
 export default function NavBar() {
     return (
       <>
        <nav>
-         <a style={aStyle} href="/app">App</a>
-         <a style={aStyle} href="/">index</a>
-         <a style={aStyle} href="/link3">Error</a>
+        <Link style={aStyle} to="/app">App</Link>
+         <Link style={aStyle} to="/">index</Link>
+         <Link style={aStyle} to="/link3">Error</Link>
        </nav>
       </>
     );

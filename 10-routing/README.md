@@ -1,8 +1,25 @@
-# React + Vite
+# ejemplo de navbar, usar link para mejor rendimiento:
+import {Link } from 'react-router-dom'
+export default function NavBar() {
+    return (
+      <>
+       <nav>
+        <Link style={aStyle} to="/app">App</Link>
+         <Link style={aStyle} to="/">index</Link>
+         <Link style={aStyle} to="/link3">Error</Link>
+       </nav>
+      </>
+    );
+  }
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+const aStyle = {
+  padding: "2rem"
+}
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+import {Link } from 'react-router'
+...
+<Link to="/">Home</Link>
+...
+If you use <a href="/">Home</a>, then React Router reloads entire Meteor app again and that causes it to be slow.
